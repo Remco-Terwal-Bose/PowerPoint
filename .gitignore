@@ -15,3 +15,10 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Generated Directories
+/Installer_ASD-PowerPoint_Release-5.0_LV2021-64
+/Software_ASD-PowerPoint_Release-5.0_LV2021-64
+
+# Zipped files
+*.zip
